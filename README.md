@@ -11,12 +11,8 @@ This project features an **AI-based fitness chatbot** fully integrated into a **
 - Schedule appointments with trainers
 - Interact with an AI chatbot for workout & diet plans
 
-Built as part of the _Introduction to Artificial Intelligence_ course (Semester 6).
+Built as part of the _Introduction to Data Science course (Semester 6).
 
-## 👤 Group Member
-- **Abdur Rehman**
-
----
 
 ## 🧠 Features
 
